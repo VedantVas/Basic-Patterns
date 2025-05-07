@@ -21,3 +21,10 @@ int main(){
     }
     return 0;
 }
+/*The given code prints the following code for t numbers of times
+if n =4
+1 
+1 2
+1 2 3
+1 2 3 4
+*/
