@@ -20,7 +20,7 @@ int main(){
         cin>>n;
         pattern(n);
     }
-
+//Another method use by uncommenting
     /*string s = "";
     for(int i = 1;i<=n;i++){
         s = s+"*";
@@ -32,3 +32,11 @@ int main(){
     //pattern(n);
     return 0;
 }
+/* this code prints the t numbers of patterns like this :-
+for n = 5
+ * * * * *
+ * * * * *
+ * * * * *
+ * * * * *
+ * * * * *
+ */
