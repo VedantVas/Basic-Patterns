@@ -20,3 +20,10 @@ int main(){
     }
     return 0;
 }
+/*This code will prints the pattern for t number of times
+if n = 4
+1 
+2 2
+3 3 3
+4 4 4 4
+*/
