@@ -28,3 +28,11 @@ int main(){
     //3pattern2(n);
     return 0;
 }
+/*This code prints t number of patterns as following
+if n=5
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+*/
